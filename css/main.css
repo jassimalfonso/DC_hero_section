@@ -16,7 +16,7 @@ h1, h2, p {
 }
 
 main {
-  background-color: rgba(244, 183, 143, 0.676);
+  background-color: white;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
